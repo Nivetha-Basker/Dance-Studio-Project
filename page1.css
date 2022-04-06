@@ -1,0 +1,79 @@
+body{
+margin: 0;
+padding: 0;
+background-image: url('reg\ bac.jpg');
+background-size:cover;
+}
+body h1{
+    color: white;
+}
+
+.container{
+top: 50%;
+left: 10%;
+bottom:-25%;
+position: absolute;
+transform: translate(-50%,-50%);
+}
+.card{
+width: 200px;
+height: 340px;
+padding: 13px 30% 30% 13%;
+background: linear-gradient(120deg,rgb(82, 26, 121),#24148c);
+border-radius: 10px;
+
+}
+.card h2{
+color: white;
+text-align: center;
+}
+.card p{
+color: white;
+}
+
+a{
+    color: white;
+}
+#name{
+width: 200px;
+border: none;
+background: transparent;
+border-bottom: 2px solid white;
+padding: 10px;
+margin: bottom 15px;
+color: white;
+}
+
+body h1{
+text-align: left;
+font-size: 25px;
+padding: 10px;
+}
+
+#button{
+border-radius: 20px;
+border: 20px;
+padding: 10px 20px;
+background-color:black;
+color:white ;
+margin-top: 20px;
+border: none;
+outline: none;
+margin-left: 60px;
+}
+a{
+font-size: 12pz;
+}
+img{
+border-radius: 50%;
+position: absolute;
+margin-left: 50%;
+margin-top: -30%;
+}
+#button:hover{
+background-color:white;
+color: black;
+font-weight: bolder;
+cursor: pointer;
+}
+
