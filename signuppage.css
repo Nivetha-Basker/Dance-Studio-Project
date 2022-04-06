@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+      
+    background-image: url('https://mc.webpcache.epapr.in/mcms.php?size=medium&in=https://mcmscache.epapr.in/post_images/website_350/post_21056079/full.png');
+    background-size: cover;
+    }
+    body h1{
+    text-align: left;
+    font-size: 25px;
+    color: white;
+    }
+    body h2{
+        color: white;
+    }
+    .container{
+    top: 50%;
+    left: 10%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    }
+    .card{
+    width: 200px;
+    height: 220px;
+    padding: 30% 40% 40% 30%;
+    border-radius: 10px;
+    border: 2px solid white;
+    }
+    card h2{
+    color: white;
+    }
+    #name{
+    width: 200px;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid white;
+    padding: 10px;
+    margin: bottom 15px;px;
+    color: white;
+    }
+    #button{
+        border-radius: 20px;
+        border: 20px;
+        padding: 10px 20px;
+        background-color: dodgerblue;
+        
+        color:white ;
+        margin-top: 20px;
+        border: none;
+        outline: none;
+        margin-left: 60px;
+    }
+    a{
+        font-size: 12pz;
+     }
+    img{
+        border-radius: 50%;
+        position: absolute;
+        margin-left: 50%;
+        margin-top: -30%;
+        }
+    #button:hover{
+        background-color: greenyellow;
+        color:
+        }
+    
+    
